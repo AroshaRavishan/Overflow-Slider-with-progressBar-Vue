@@ -4,6 +4,10 @@
 
 This Vue 3 component creates a dynamic and visually appealing client testimonials section. It's designed to showcase customer feedback in an interactive carousel format, enhancing the credibility of your website or application.
 
+## Preview
+
+![Overflow Slider Preview](https://github.com/AroshaRavishan/Overflow-Slider-with-progressBar-Vue/blob/main/Overflow%20Slider%20Preview.png)
+
 ## Features
 
 - Responsive design adapting to various screen sizes (mobile to desktop)
